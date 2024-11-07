@@ -2,7 +2,7 @@
 Projeto de cadastro de clientes utilizando integração com a API ViaCep.
 
 ## Tecnologias Utilizadas
-- Java 22
+- Java 8
 - JSF 2.2
 - JPA (Hibernate)
 - Banco de Dados H2
